@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="02spring_requestmapping:war">
+    <output-path>$PROJECT_DIR$/02spring_requestmapping/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>02spring_requestmapping</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="02spring_requestmapping-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="02spring_requestmapping:war exploded" />
+    </root>
+  </artifact>
+</component>
